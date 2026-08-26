@@ -1,4 +1,4 @@
-## MediaDownloader
+## Argent Media Downloader
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-3.0.0-7c6af7?style=for-the-badge"/>
