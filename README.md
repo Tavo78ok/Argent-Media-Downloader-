@@ -19,6 +19,18 @@
 
 > *Interfaz nativa GTK4/libadwaita — se adapta automáticamente al tema del sistema (claro u oscuro).*
 
+<img width="1440" height="900" alt="Captura de pantalla de 2026-08-31 16-40-49" src="https://github.com/user-attachments/assets/651fbb2c-4f6b-4a36-a239-b745732b2a5c" />
+
+<img width="1440" height="900" alt="Captura de pantalla de 2026-08-31 16-41-10" src="https://github.com/user-attachments/assets/1b99eb3f-bdb1-4cb7-aba6-f579fdbfcbe6" />
+
+<img width="1440" height="900" alt="Captura de pantalla de 2026-08-31 16-41-22" src="https://github.com/user-attachments/assets/663fb097-3fb6-4b6b-b767-facb333c8d7c" />
+
+<img width="1440" height="900" alt="Captura de pantalla de 2026-08-31 16-41-49" src="https://github.com/user-attachments/assets/02d1e565-6f1d-471f-bec5-f3ef3952fcf7" />
+
+<img width="1440" height="900" alt="Captura de pantalla de 2026-08-31 16-42-01" src="https://github.com/user-attachments/assets/ff73881f-55bd-412d-abcb-1a2d58d91071" />
+
+<img width="740" height="720" alt="Captura de pantalla de 2026-08-31 16-42-28" src="https://github.com/user-attachments/assets/cec1206c-b550-42fe-86ad-bd4b475e681e" />
+
 ---
 
 ## Características
