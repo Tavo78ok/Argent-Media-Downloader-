@@ -104,7 +104,14 @@ pip3 install yt-dlp
 python3 media_downloader.py
 ```
 
+### Opción C:
+
+. Descargar el appimage, darle permisos de ejecución 
+
+sudo chmod +x media-downloader.appimage
+
 ---
+
 
 ## Uso
 
