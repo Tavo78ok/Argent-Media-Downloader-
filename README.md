@@ -1,4 +1,4 @@
-# MediaDownloader
+# Argent Media Downloader
 
 **Descarga video y música de cualquier plataforma** con una interfaz moderna y sencilla basada en GTK4 + libadwaita.
 
