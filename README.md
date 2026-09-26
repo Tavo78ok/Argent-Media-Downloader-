@@ -29,7 +29,13 @@
 
 ## Capturas
 
-> *(Agrega aquí tus capturas de pantalla)*
+<img width="1440" height="900" alt="Captura de pantalla de 2026-09-26 14-25-24" src="https://github.com/user-attachments/assets/005aa9e4-6b5b-4208-9232-ce3e48ab17fe" />
+<img width="1440" height="900" alt="Captura de pantalla de 2026-09-26 14-25-44" src="https://github.com/user-attachments/assets/a2a716cf-a001-4dd1-a817-defffada9afa" />
+<img width="1440" height="900" alt="Captura de pantalla de 2026-09-26 14-26-22" src="https://github.com/user-attachments/assets/975e9bbd-b126-4710-aac3-d2425600b9ea" />
+<img width="1440" height="900" alt="Captura de pantalla de 2026-09-26 14-26-45" src="https://github.com/user-attachments/assets/6940f5de-0eac-491a-a805-6b90f2694af0" />
+<img width="1440" height="900" alt="Captura de pantalla de 2026-09-26 14-27-06" src="https://github.com/user-attachments/assets/8c0edb63-5305-4c94-a7ef-4e2d06af48ef" />
+<img width="1440" height="900" alt="Captura de pantalla de 2026-09-26 14-27-40" src="https://github.com/user-attachments/assets/decb81f7-1d9d-4f13-b822-e895a9bd0466" />
+
 
 ---
 
