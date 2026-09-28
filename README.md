@@ -162,6 +162,15 @@ Mit License. Puedes usarlo, modificarlo y distribuirlo libremente.
 
 Desarrollado con ❤️ usando [yt-dlp](https://github.com/yt-dlp/yt-dlp).
 
+## Colaborar:
+
+**🇦🇷 Desde Argentina (Mercado Pago):**
+- 💳 Alias MP: `tavo.78.ok`
+- 🔗 CVU: `0000003100099682904311`
+
+**🌎 Desde el exterior (PayPal):**
+- 💙 [paypal.me/GustavoCuevas582](https://paypal.me/GustavoCuevas582)
+
 ---
 
 ¿Encontraste un bug o tienes una idea? ¡Abre un issue!
